@@ -1,7 +1,7 @@
 [
   { "zone": "whenitships.com",
     "records": [
-      { "type": "A", "name": "", "ttl": 60, "value": "www.whenitships.com" },
+      { "type": "URL", "name": "", "ttl": 60, "value": "http://www.whenitships.com" },
       { "type": "A", "name": "do", "ttl": 60, "value": "104.236.209.151" },
       { "type": "CNAME", "name": "www", "ttl": 60, "value": "domains.quickmvp.com" },
       { "type": "TXT", "name": "", "ttl": 60, "value": "google-site-verification=fUGyc7OnlT5Pb7rukWyt9tbDzq9D4hTFD7QIRCoTeZA" },
