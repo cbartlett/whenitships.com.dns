@@ -4,6 +4,7 @@
       { "type": "A", "name": "", "ttl": 60, "value": "104.236.209.151" },
       { "type": "A", "name": "do", "ttl": 60, "value": "104.236.209.151" },
       { "type": "A", "name": "www", "ttl": 60, "value": "104.236.209.151" },
+      { "type": "TXT", "name": "", "ttl": 60, "value": "google-site-verification=fUGyc7OnlT5Pb7rukWyt9tbDzq9D4hTFD7QIRCoTeZA" },
       { "type": "CNAME", "name": "calendar", "ttl": 3600, "value": "ghs.googlehosted.com" },
       { "type": "CNAME", "name": "docs", "ttl": 3600, "value": "ghs.googlehosted.com" },
       { "type": "CNAME", "name": "mail", "ttl": 3600, "value": "ghs.googlehosted.com" },
