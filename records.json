@@ -1,0 +1,19 @@
+[
+  { "zone": "whenitships.com",
+    "records": [
+      { "type": "A", "name": "", "ttl": 60, "value": "104.236.209.151" },
+      { "type": "A", "name": "do", "ttl": 60, "value": "104.236.209.151" },
+      { "type": "A", "name": "www", "ttl": 60, "value": "104.236.209.151" },
+      { "type": "CNAME", "name": "calendar", "ttl": 3600, "value": "ghs.googlehosted.com" },
+      { "type": "CNAME", "name": "docs", "ttl": 3600, "value": "ghs.googlehosted.com" },
+      { "type": "CNAME", "name": "mail", "ttl": 3600, "value": "ghs.googlehosted.com" },
+      { "type": "CNAME", "name": "sites", "ttl": 3600, "value": "ghs.googlehosted.com" },
+      { "type": "MX", "name": "", "ttl": 3600, "value": "alt1.aspmx.l.google.com", "prio": 5 },
+      { "type": "MX", "name": "", "ttl": 3600, "value": "alt2.aspmx.l.google.com", "prio": 5 },
+      { "type": "MX", "name": "", "ttl": 3600, "value": "aspmx2.googlemail.com", "prio": 10 },
+      { "type": "MX", "name": "", "ttl": 3600, "value": "aspmx3.googlemail.com", "prio": 10 },
+      { "type": "MX", "name": "", "ttl": 3600, "value": "aspmx.l.google.com", "prio": 1 },
+      { "type": "SPF", "name": "", "ttl": 3600, "value": "v=spf1 a include:_spf.google.com -all" }
+    ]
+  }
+]
